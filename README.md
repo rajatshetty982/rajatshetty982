@@ -6,7 +6,6 @@ When I'm not coding, you can find me lost in a good book—whether it's a grippi
 
 I dive headfirst into problems, often trying to crack them on my own, but I believe that collaborating with a team can make the process so much more fun and exciting. Let’s create something amazing together! 💡🤝<html>
     <div>
-        <img height="20"src="https://img.icons8.com/color/452/graphql.png">
         <img width="30" height="34" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux"/>
     </div>
 </html>
