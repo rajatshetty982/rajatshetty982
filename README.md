@@ -6,7 +6,7 @@ When I'm not coding, you can find me lost in a good book—whether it's a grippi
 
 I dive headfirst into problems, often trying to crack them on my own, but I believe that collaborating with a team can make the process so much more fun and exciting. Let’s create something amazing together! 💡🤝
 
- <div style="display: flex; align-items: center; justify-content: center; gap: 10px; background-color: #1c2833 ; padding: 10px; border-radius: 8px;">
+ <div style="display: flex; align-items: center; justify-content: center; gap: 13px; background-color: #1c2833 ; padding: 10px; border-radius: 8px;">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
