@@ -1,6 +1,6 @@
 ![](img.svg)
 
-I’m a software developer in the making, currently on the hunt for exciting job opportunities and internships! My journey is fueled by a love for web development, where I explore the world of Django and React, while sharpening my skills in Data Structures and Algorithms using C++. My ultimate goal? To become a 10x developer 👀 and be part of a dynamic team passionate about creating tech that makes a real difference in the world. 🌍🚀
+I’m a software developer in the making, currently on the hunt for exciting job opportunities and internships! My journey is fueled by a love for web development, where I explore the world of Django and React, while sharpening my skills in Data Structures and Algorithms using C++. My ultimate goal? To become a real good developer and be part of a dynamic team passionate about creating tech that makes a real difference in the world. 🌍🚀
 
 When I'm not coding, you can find me lost in a good book—whether it's a gripping piece of fiction, deep literature, or something mind-expanding from the world of science. 📚✨ I’m also on a personal quest to learn the art of drawing (currently I'm terrible at it!). 🎨🖌️
 
