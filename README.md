@@ -1,6 +1,6 @@
 ![](img.svg)
 
-Aspiring software developer and Backend Engineer Intern at Spintly, navigating the fascinating realms of web development with Django and React. I’m on a journey to master the craft of coding, refining my expertise in Data Structures and Algorithms with C++, and striving toward my ultimate goal: becoming a developer who contributes to creating technology that truly transforms lives. 🌍✨
+Aspiring software developer and Backend Engineer Intern at Spintly, navigating through the intricacies of web development with Python and Go frameworks. I’m on a journey to master the craft of coding, refining my expertise in Data Structures and Algorithms with C++, and striving toward my ultimate goal: becoming a developer who contributes to creating technology that truly transforms lives. 🌍✨
 
 Beyond the lines of code, I find inspiration in the pages of books—immersing myself in fiction, profound literature, or the wonders of science. 📚💭 Recently, I’ve embarked on a whimsical journey to learn drawing (currently I'm terrible at it!). 🎨🌟
 
