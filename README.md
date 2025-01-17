@@ -1,10 +1,9 @@
 ![](img.svg)
 
-Aspiring software developer and Backend Engineer Intern at Spintly, navigating through the intricacies of web development with Python and Go frameworks. I’m on a journey to master the craft of coding, refining my expertise in Data Structures and Algorithms with C++, and striving toward my ultimate goal: becoming a developer who contributes to creating technology that truly transforms lives. 🌍✨
+Aspiring software developer and Backend Engineer Intern, navigating through the world of software development. I’m on a journey to master the discipline of creating and deploying products, refining my expertise in programming, and striving toward my ultimate goal: becoming a developer who contributes to creating technology that truly transforms lives positively.🌍✨
 
 Beyond the lines of code, I find inspiration in the pages of books—immersing myself in fiction, profound literature, or the wonders of science. 📚💭 Recently, I’ve embarked on a whimsical journey to learn drawing (currently I'm terrible at it!). 🎨🌟
 
-I thrive on solving problems, diving deep into challenges with determination. While I value the joy of solo exploration, I believe that collaboration brings out the best in creativity and innovation. Together, let’s build something extraordinary! 🚀🤝
 
 
  <div style="display: flex; align-items: center; justify-content: center; gap: 13px; background-color: #1c2833 ; padding: 10px; border-radius: 8px;">
