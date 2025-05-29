@@ -1,6 +1,6 @@
 ![](img.svg)
 
-A software developer and currently working as a Backend Engineer for a access control and management company. I’m on a journey to master the discipline of creating and deploying products, refining my expertise in programming, and striving toward my ultimate goal: becoming a developer who contributes to creating technology that truly transforms lives positively.
+A software developer and currently working as a Backend Engineer. I’m on a journey to master the discipline of creating and deploying products, refining my expertise in programming, and striving toward my ultimate goal: becoming a developer who contributes to creating technology that truly transforms lives positively.
 
 Beyond the lines of code, I find inspiration in the pages of books—immersing myself in fiction, profound literature, or the wonders of science. 📚💭 Recently, I’ve embarked on a whimsical journey to learn drawing (currently I'm terrible at it!). 🎨🌟
 
