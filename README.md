@@ -1,8 +1,8 @@
 ![](img.svg)
 
-A software developer and currently working as a Backend Engineer. I’m on a journey to master the discipline of creating and deploying products, refining my expertise in programming, and striving toward my ultimate goal: becoming a developer who contributes to creating technology that truly transforms lives positively.
+A software developer and have some experience as a Backend developer. Have too many interests to actually even try to do them. But, currently trying to learn bits and bytes of game dev, starting from the 0. That is, working my way up the ladder from 2d games using sfml, sdl2, love2d libraries. Planning to make some clones of classic games.
 
-Beyond the lines of code, I find inspiration in the pages of books—immersing myself in fiction, profound literature, or the wonders of science. 📚💭 Recently, I’ve embarked on a whimsical journey to learn drawing (currently I'm terrible at it!). 🎨🌟
+Beyond the lines of code, I find inspiration in the pages of books—immersing myself in some fiction, some literature and some philosophy.
 
 
 
