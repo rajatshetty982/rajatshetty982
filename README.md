@@ -1,4 +1,3 @@
-![](img.svg)
 
 A software developer and have some experience as a Backend developer. Have too many interests to actually even try to do them. But, currently trying to learn bits and bytes of game dev, starting from the 0. That is, working my way up the ladder from 2d games using sfml, sdl2, love2d libraries. Planning to make some clones of classic games.
 
