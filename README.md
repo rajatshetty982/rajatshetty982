@@ -1,5 +1,7 @@
 
-A software developer and have some experience as a Backend developer. Have too many interests to actually even try to do them. But, currently trying to learn bits and bytes of game dev, starting from the 0. That is, working my way up the ladder from 2d games using sfml, sdl2, love2d libraries. Planning to make some clones of classic games.
+A software developer with some experience im Backend Development. Have too many interests to actually even try to do them. But, currently trying to learn bits and bytes of game dev, starting from the 0. That is, working my way up the ladder from 2d games using sfml, sdl2, love2d libraries. Making some clones of classic games.
+
+On the other hand, as I always wanted to dive deeper into computer hardware and the software behind everything we use, so following a couple books, I'm building a basic computer in emulator and learning the low level applications that run in a simple computer.
 
 Beyond the lines of code, I find inspiration in the pages of books—immersing myself in some fiction, some literature and some philosophy.
 
