@@ -1,17 +1,26 @@
+A software developer with experience in backend development.
 
-A software developer with some experience in Backend Development. Currently trying to learn bits and bytes of game dev, starting from ground up (almost of course). That is, working my way up the ladder from 2d games using sfml (in C++), sdl2 (in C), love2d (Lua) libraries. Making some clones of classic games.
+Right now, I’m exploring game development from the ground up — working on 2D games
+and recreating classic mechanics using SFML (C++), SDL2 (C), and LÖVE2D (Lua).
+I love digging into how things truly work: memory, performance, and all the
+low-level bits that make games feel alive (a guilty pleasure that sometimes slows
+me down, but passion wins over speed).
 
-Beyond the lines of code, I find inspiration in the pages of books—immersing myself in some fiction, some literature and some philosophy.
+Currently learning: game architecture, ECS, and C++ performance tuning.
 
+When I’m not coding, I’m usually:
 
+- reading fiction, literature, or philosophy
+- unwinding with comedy sitcoms
+- watching films that are genuinely worth the time
 
- <div style="display: flex; align-items: center; justify-content: center; gap: 13px; background-color: #1c2833 ; padding: 10px; border-radius: 8px;">
-   <img src="https://img.shields.io/badge/language-C-lightgrey" alt="C">
-   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++">
-   <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" alt="Go">
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
-   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
