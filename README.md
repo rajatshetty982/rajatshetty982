@@ -1,17 +1,36 @@
-<h1 align="center">I'm Rajat Shetty</h1>
-<h3 align="center">Backend developer -> Game Developer</h3>
+# Hi, I'm Rajat Shetty
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatshetty982&label=Profile%20views&color=0e75b6&style=flat" alt="rajatshetty982" /> </p>
+### Backend Engineer ⮕ Game Developer
 
--  I’m currently learning **Unity and Game Design Patterns**
+[![Email](https://img.shields.io/badge/Email-rajatshetty982%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:rajatshetty982@gmail.com)
+![Focus](https://img.shields.io/badge/Focus-Unity%20%26%20C%23-blueviolet?style=flat-square&logo=unity)
 
--  How to reach me **rajatshetty982@gmail.com**
+---
 
--  Fun fact **I'm training to crush a sub-20 minute 5k!**
+### Professional Summary
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Currently Learning:** Mastering Unity-specific design
+patterns (ScriptableObjects, Observer, and State Machines).
+- **Stack:** Comfortable with high-performance languages
+like Go and C++ while specializing in C# for Game Dev.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+### Languages and Tools
+
+**Game Development**
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp)](https://skillicons.dev)
+
+**Backend & Databases**
+[![My Skills](https://skillicons.dev/icons?i=go,python,postgres,sqlite)](https://skillicons.dev)
+
+**Tools & Environment**
+[![My Skills](https://skillicons.dev/icons?i=git,linux,postman)](https://skillicons.dev)
+
+---
+
+### Fun Facts
+
+- I'm currently training to crush a **sub-20 minute 5k**!
+- Deeply interested in how backend networking
+principles apply to multiplayer game synchronization.
