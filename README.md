@@ -9,8 +9,11 @@
 
 ### Professional Summary
 
-- **Currently Learning:** Unity-specific design
+- **Currently Learning:**
+  - Unity-specific design
 patterns.
+  - backend networking
+principles apply to multiplayer game synchronization.
 - **Stack:** Comfortable with high-performance languages
 like Go and C++ while specializing in C# for Game Dev.
 
@@ -32,5 +35,3 @@ like Go and C++ while specializing in C# for Game Dev.
 ### Fun Facts
 
 - I'm currently training to crush a **sub-20 minute 5k**!
-- Deeply interested in how backend networking
-principles apply to multiplayer game synchronization.
