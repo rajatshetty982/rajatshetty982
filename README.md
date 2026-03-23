@@ -9,8 +9,8 @@
 
 ### Professional Summary
 
-- **Currently Learning:** Mastering Unity-specific design
-patterns (ScriptableObjects, Observer, and State Machines).
+- **Currently Learning:** Unity-specific design
+patterns.
 - **Stack:** Comfortable with high-performance languages
 like Go and C++ while specializing in C# for Game Dev.
 
